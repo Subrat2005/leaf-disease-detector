@@ -15,3 +15,13 @@ Photos that are not plant leaves are rejected.
 ## Tech used
 
 Python, FastAPI, Uvicorn, Streamlit, Groq API (Qwen vision model)
+## Run it yourself
+
+1. Install the packages: `pip install -r requirements.txt`
+2. Create a file named `.env` containing `GROQ_API_KEY=your_key_here`
+3. Start everything with `python run.py`
+4. Open http://localhost:8501
+
+## Limitations
+
+The result comes from an AI model, so it can be wrong. It is not a substitute for advice from an agricultural expert.
