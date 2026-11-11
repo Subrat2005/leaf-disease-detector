@@ -1,0 +1,10 @@
+image,true,predicted,disease_name,correct
+healthy1.jpg,healthy,healthy,,True
+healthy2.jpg,healthy,healthy,,True
+healthy3.jpg,healthy,healthy,,True
+healthy4.jpeg,healthy,healthy,,True
+leaf1.jpg,diseased,diseased,Anthracnose,True
+leaf2.jpg,diseased,diseased,Bacterial Leaf Spot,True
+leaf3.jpg,diseased,diseased,Purple Spot,True
+leaf4.jpg,diseased,diseased,Angioleaf spot,True
+leaf5.jpg,diseased,diseased,Black Spot,True
